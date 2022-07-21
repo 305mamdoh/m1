@@ -4686,13 +4686,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>TazaCard</string>
+	<string>TopStore<</string>
 	<key>PayloadDisplayName</key>
-	<string>TazaCard</string>
+	<string>TopStore<</string>
 	<key>PayloadIdentifier</key>
-	<string>TazaCard</string>
+	<string>TopStore<</string>
 	<key>PayloadOrganization</key>
-	<string>TazaCard</string>
+	<string>TopStore<</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
