@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
         <!--=============== CSS ===============-->
         <link rel="stylesheet" href="assets/css/styles.css">
-
+        <link rel="stylesheet" href="asset/css/styles.css">
         <title>Top Store</title>
     </head>
     <body>
@@ -114,15 +114,41 @@
                     <div class="trick__content">
                         <img src="assets/img/trick-treat1-img.png" alt="" class="trick__img">
                        
-                        <button class="button trick__button">
+                        <button class="button trick__button" id="open-modal">
                             <i class='bx bx-cart-alt trick__icon'></i>
                         </button>
                     </div>
 
+
+
+
+            <div class="modal__container" id="modal-container">
+                <div class="modal__content">
+                    <div class="modal__close close-modal" title="Close">
+                        <i class='bx bx-x'></i>
+                    </div>
+
+                    <img src="asset/img/star-trophy.png" alt="" class="modal__img">
+
+                    <h1 class="modal__title">Good Job!</h1>
+                    <p class="modal__description">Click the button to close</p>
+
+                    <button class="modal__button modal__button-width">
+                        View status
+                    </button>
+
+                    <button class="modal__button-link close-modal">
+                        Close
+                    </button>
+                </div>
+            </div>
+
+
+
                     <div class="trick__content">
                         <img src="assets/img/trick-treat2-img.png" alt="" class="trick__img">
                         
-                        <button class="button trick__button">
+                        <button class="button trick__button" id="open-modal">
                             <i class='bx bx-cart-alt trick__icon'></i>
                         </button>
                     </div>
@@ -130,7 +156,7 @@
                     <div class="trick__content">
                         <img src="assets/img/trick-treat3-img.png" alt="" class="trick__img">
                        
-                        <button class="button trick__button">
+                        <button class="button trick__button" id="open-modal">
                             <i class='bx bx-cart-alt trick__icon'></i>
                         </button>
                     </div>
@@ -138,7 +164,7 @@
                     <div class="trick__content">
                         <img src="assets/img/trick-treat4-img.png" alt="" class="trick__img">
                         
-                        <button class="button trick__button">
+                        <button class="button trick__button" id="open-modal">
                             <i class='bx bx-cart-alt trick__icon'></i>
                         </button>
                     </div>
@@ -146,7 +172,7 @@
                     <div class="trick__content">
                         <img src="assets/img/trick-treat5-img.png" alt="" class="trick__img">
                         
-                        <button class="button trick__button">
+                        <button class="button trick__button" id="open-modal">
                             <i class='bx bx-cart-alt trick__icon'></i>
                         </button>
                     </div>
@@ -154,7 +180,7 @@
                     <div class="trick__content">
                         <img src="assets/img/trick-treat6-img.png" alt="" class="trick__img">
                         
-                        <button class="button trick__button">
+                        <button class="button trick__button" id="open-modal">
                             <i class='bx bx-cart-alt trick__icon'></i>
                         </button>
                     </div>
@@ -301,5 +327,6 @@
 
         <!--=============== MAIN JS ===============-->
         <script src="assets/js/main.js"></script>
+		<script src="asset/js/main.js"></script>
     </body>
 </html>
