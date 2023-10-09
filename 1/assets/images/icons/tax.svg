@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="tax" transform="translate(-39.014 -17)">
+    <g id="percentage-circle_twotone_percentage-circle" data-name="percentage-circle/twotone/percentage-circle" transform="translate(39.014 17)">
+      <g id="vuesax_twotone_percentage-circle" data-name="vuesax/twotone/percentage-circle">
+        <g id="percentage-circle">
+          <path id="Vector" d="M0,6.54,6.54,0" transform="translate(8.32 8.73)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M2.46,1.23A1.23,1.23,0,1,1,1.23,0,1.23,1.23,0,0,1,2.46,1.23Z" transform="translate(7.5 7.91)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M2.46,1.23A1.23,1.23,0,1,1,1.23,0,1.23,1.23,0,0,1,2.46,1.23Z" transform="translate(14.04 13.63)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+          <path id="Vector-4" data-name="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z" transform="translate(2 2)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

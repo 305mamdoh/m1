@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="right_arrow_border_circle" transform="translate(-293 -568)">
+    <g id="arrow-circle-right_twotone" data-name="arrow-circle-right/twotone" transform="translate(293 568)">
+      <g id="vuesax_twotone_arrow-circle-right" data-name="vuesax/twotone/arrow-circle-right">
+        <g id="arrow-circle-right">
+          <path id="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z" transform="translate(2 2)" fill="none" stroke="#88bdc3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-2" data-name="Vector" d="M0,7.06,3.52,3.53,0,0" transform="translate(10.74 8.47)" fill="none" stroke="#88bdc3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(24 24) rotate(180)" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

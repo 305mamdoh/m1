@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="video" transform="translate(-966 -350)">
+    <g id="play-circle_twotone" data-name="play-circle/twotone" transform="translate(966 350)">
+      <g id="vuesax_twotone_play-circle" data-name="vuesax/twotone/play-circle">
+        <g id="play-circle">
+          <path id="Vector" d="M33.34,16.67A16.67,16.67,0,1,1,16.67,0,16.67,16.67,0,0,1,33.34,16.67Z" transform="translate(3.28 3.33)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Vector-2" data-name="Vector" d="M0,6.667V3.886C0,.423,2.448-.992,5.445.739l2.414,1.4,2.414,1.4c3,1.732,3,4.562,0,6.294l-2.414,1.4-2.414,1.4C2.448,14.36,0,12.944,0,9.481Z" transform="translate(14.573 13.716)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H40V40H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

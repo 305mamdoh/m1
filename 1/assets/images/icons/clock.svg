@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="clock" transform="translate(-0.095)">
+    <g id="clock_twotone" data-name="clock/twotone" transform="translate(0.095)">
+      <g id="vuesax_twotone_clock" data-name="vuesax/twotone/clock">
+        <g id="clock-2" data-name="clock">
+          <path id="Vector" d="M18.35,9.175A9.175,9.175,0,1,1,9.175,0,9.178,9.178,0,0,1,18.35,9.175Z" transform="translate(1.825 1.825)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          <path id="Vector-2" data-name="Vector" d="M3.723,7,.894,5.311A2.021,2.021,0,0,1,0,3.742V0" transform="translate(10.67 6.898)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" opacity="0.4"/>
+          <path id="Vector-3" data-name="Vector" d="M0,0H22V22H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="down_arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="arrow-down_twotone" data-name="arrow-down/twotone">
+    <g id="vuesax_twotone_arrow-down" data-name="vuesax/twotone/arrow-down">
+      <g id="arrow-down">
+        <path id="Vector" d="M13.487,0,7.936,5.2a1.772,1.772,0,0,1-2.384,0L0,0" transform="translate(3.256 7.591)" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H20V20H0Z" transform="translate(20 20) rotate(180)" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

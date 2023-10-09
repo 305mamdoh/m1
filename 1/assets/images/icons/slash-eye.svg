@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="slash-eye" transform="translate(-423 -4700)">
+    <g id="eye_eye-slash_bulk" data-name="eye/eye-slash/bulk" transform="translate(423 4700)">
+      <g id="vuesax_bulk_eye-slash" data-name="vuesax/bulk/eye-slash">
+        <g id="eye-slash">
+          <path id="Vector" d="M13.9,2.11A14.57,14.57,0,0,0,12.27,0L8.5,3.77a3.853,3.853,0,0,1,.19,1.19A4.035,4.035,0,0,1,4.65,9a3.853,3.853,0,0,1-1.19-.19L0,12.27a9.457,9.457,0,0,0,4.65,1.25,9.682,9.682,0,0,0,5.09-1.49A13.354,13.354,0,0,0,13.9,7.8,5.771,5.771,0,0,0,13.9,2.11Z" transform="translate(7.35 7.04)" fill="#000" opacity="0.4"/>
+          <path id="Vector-2" data-name="Vector" d="M4.88.84.84,4.88A2.9,2.9,0,0,1,0,2.86,2.866,2.866,0,0,1,2.86,0,2.9,2.9,0,0,1,4.88.84Z" transform="translate(9.14 9.14)" fill="#000"/>
+          <path id="Vector-3" data-name="Vector" d="M16.25,2.32,12.86,5.71A3.986,3.986,0,0,0,10,4.53a4.045,4.045,0,0,0-2.86,6.9L3.76,14.82H3.75a14.283,14.283,0,0,1-3-3.41,5.771,5.771,0,0,1,0-5.69A13.354,13.354,0,0,1,4.91,1.49,9.774,9.774,0,0,1,10,0,9.936,9.936,0,0,1,16.25,2.32Z" transform="translate(2 3.43)" fill="#000" opacity="0.4"/>
+          <path id="Vector-4" data-name="Vector" d="M3.03.17A2.866,2.866,0,0,1,.17,3.03.5.5,0,0,1,0,3.01L3.01,0A.5.5,0,0,1,3.03.17Z" transform="translate(11.83 11.83)" fill="#000"/>
+          <path id="Vector-5" data-name="Vector" d="M19.765.225a.773.773,0,0,0-1.09,0L.225,18.685a.773.773,0,0,0,0,1.09.791.791,0,0,0,.54.22.758.758,0,0,0,.54-.23L19.765,1.3A.743.743,0,0,0,19.765.225Z" transform="translate(2.005 2.005)" fill="#000"/>
+          <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
